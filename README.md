@@ -17,7 +17,7 @@ pkg install nodejs
 
 pkg install npm
 
-git clone https://github.com/mauribt/mauribt14
+git clone https://github.com/mauribt/mauribt15
 
 cd mauribt14
 
